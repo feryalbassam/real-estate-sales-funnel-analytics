@@ -1,0 +1,601 @@
+Property_ID,Project_Name,Developer_Name,Location,Property_Type,Bedrooms,Property_Price_AED,Payment_Plan
+PROP-00367,Binghatti Jacob & Co,Binghatti Developers,Jumeirah Lake Towers (JLT),Apartment,3,2090000,Post Handover 60/40
+PROP-00359,Haven,Aldar Properties,Dubai Hills Estate,Penthouse,5,10827000,DLD Waiver Offer
+PROP-00588,Hayat Townhouses,Nshama,Business Bay,Apartment,2,1909000,50/50
+PROP-00105,DAMAC Lagoons,DAMAC Properties,Arabian Ranches,Apartment,1,1367000,50/50
+PROP-00152,1/JVC,Dubai Properties,Damac Hills 2,Studio,0,502000,Post Handover 60/40
+PROP-00016,Hayat Townhouses,Nshama,Mohammed Bin Rashid City (MBR City),Apartment,2,1312000,50/50
+PROP-00321,Wilton Terraces,Ellington Properties,Business Bay,Townhouse,4,3004000,60/40
+PROP-00280,Safa Two,DAMAC Properties,Business Bay,Apartment,4,2477000,80/20
+PROP-00066,Fay Alreeman,Aldar Properties,Jumeirah Village Circle (JVC),Apartment,3,2328000,60/40
+PROP-00023,Wilton Terraces,Ellington Properties,Dubai Silicon Oasis,Apartment,4,2215000,80/20
+PROP-00528,Mudon,Dubai Properties,Business Bay,Apartment,2,1745000,80/20
+PROP-00351,Address Residences,Emaar Properties,Dubai Marina,Apartment,1,1075000,80/20
+PROP-00511,Sobha One,Sobha Realty,Dubai South,Apartment,2,1612000,DLD Waiver Offer
+PROP-00348,Sobha Hartland,Sobha Realty,Palm Jumeirah,Townhouse,4,3113000,Post Handover 60/40
+PROP-00180,Danube Diamondz,Danube Properties,Damac Hills 2,Townhouse,3,2729000,50/50
+PROP-00541,Deira Islands,Nakheel,Dubai Hills Estate,Villa,4,5074000,50/50
+PROP-00479,Azizi Venice,Azizi Developments,Arabian Ranches,Villa,5,6578000,80/20
+PROP-00052,Fay Alreeman,Aldar Properties,Dubai Marina,Townhouse,3,2620000,Post Handover 60/40
+PROP-00324,Danube Diamondz,Danube Properties,Mohammed Bin Rashid City (MBR City),Apartment,3,1943000,60/40
+PROP-00554,Palm Jebel Ali,Nakheel,Dubai Hills Estate,Apartment,1,1295000,DLD Waiver Offer
+PROP-00404,1/JVC,Dubai Properties,Business Bay,Penthouse,3,7998000,Post Handover 60/40
+PROP-00125,La Mer Residences,Meraas,Palm Jumeirah,Studio,0,568000,50/50
+PROP-00414,Azizi Aliyah,Azizi Developments,Dubai Hills Estate,Studio,0,778000,80/20
+PROP-00248,Binghatti Canal,Binghatti Developers,Arabian Ranches,Apartment,2,1737000,DLD Waiver Offer
+PROP-00530,Address Residences,Emaar Properties,Al Furjan,Villa,6,6101000,1% Monthly
+PROP-00458,Bluewaters Residences,Meraas,Mohammed Bin Rashid City (MBR City),Studio,0,599000,50/50
+PROP-00396,Azizi Venice,Azizi Developments,Business Bay,Apartment,1,1169000,70/30
+PROP-00110,Palm Jebel Ali,Nakheel,Palm Jumeirah,Apartment,2,1628000,50/50
+PROP-00562,DAMAC Lagoons,DAMAC Properties,Business Bay,Apartment,2,2315000,60/40
+PROP-00179,Hayat Townhouses,Nshama,Dubai Marina,Apartment,4,2327000,70/30
+PROP-00361,Wilton Terraces,Ellington Properties,Downtown Dubai,Apartment,3,2322000,60/40
+PROP-00409,Palm Jebel Ali,Nakheel,Palm Jumeirah,Studio,0,637000,Post Handover 60/40
+PROP-00050,Villanova,Dubai Properties,Business Bay,Apartment,2,1504000,Post Handover 60/40
+PROP-00177,DAMAC Lagoons,DAMAC Properties,Dubai Hills Estate,Apartment,3,2410000,50/50
+PROP-00320,Dubai Hills Views,Emaar Properties,Downtown Dubai,Studio,0,642000,Post Handover 60/40
+PROP-00363,Fay Alreeman,Aldar Properties,Mohammed Bin Rashid City (MBR City),Villa,4,5853000,60/40
+PROP-00459,Azizi Venice,Azizi Developments,Arabian Ranches,Apartment,2,1789000,50/50
+PROP-00467,Belgravia,Ellington Properties,Jumeirah Lake Towers (JLT),Apartment,1,1323000,80/20
+PROP-00520,Binghatti Jacob & Co,Binghatti Developers,Business Bay,Apartment,2,1637000,60/40
+PROP-00217,Haven,Aldar Properties,Dubai South,Apartment,3,1793000,60/40
+PROP-00599,Azizi Venice,Azizi Developments,Damac Hills 2,Studio,0,714000,DLD Waiver Offer
+PROP-00595,Sobha Seahaven,Sobha Realty,Jumeirah Village Circle (JVC),Apartment,3,2058000,1% Monthly
+PROP-00162,Azizi Riviera,Azizi Developments,Arabian Ranches,Townhouse,3,3112000,DLD Waiver Offer
+PROP-00150,Azizi Aliyah,Azizi Developments,Dubai Marina,Apartment,2,1815000,1% Monthly
+PROP-00531,Azizi Riviera,Azizi Developments,Jumeirah Village Circle (JVC),Apartment,4,2255000,50/50
+PROP-00128,Yas Acres,Aldar Properties,Mohammed Bin Rashid City (MBR City),Villa,4,4241000,DLD Waiver Offer
+PROP-00142,Danube Oceanz,Danube Properties,Dubai Marina,Townhouse,4,2928000,60/40
+PROP-00235,Mudon,Dubai Properties,Dubai Marina,Studio,0,626000,70/30
+PROP-00546,Danube Oceanz,Danube Properties,Dubai Silicon Oasis,Apartment,1,1630000,70/30
+PROP-00032,DAMAC Hills 2,DAMAC Properties,Mohammed Bin Rashid City (MBR City),Apartment,1,1676000,Post Handover 60/40
+PROP-00186,Azizi Aliyah,Azizi Developments,Dubai South,Apartment,4,2357000,70/30
+PROP-00421,Azizi Venice,Azizi Developments,Jumeirah Village Circle (JVC),Penthouse,4,9711000,50/50
+PROP-00169,Azizi Riviera,Azizi Developments,Jumeirah Village Circle (JVC),Studio,0,809000,1% Monthly
+PROP-00415,DAMAC Lagoons,DAMAC Properties,Jumeirah Village Circle (JVC),Townhouse,3,2990000,80/20
+PROP-00360,Binghatti Aquarise,Binghatti Developers,Downtown Dubai,Apartment,1,1679000,80/20
+PROP-00165,DAMAC Lagoons,DAMAC Properties,Jumeirah Village Circle (JVC),Apartment,2,1975000,70/30
+PROP-00486,Wilton Terraces,Ellington Properties,Mohammed Bin Rashid City (MBR City),Villa,3,4802000,60/40
+PROP-00515,Danube Elitz,Danube Properties,Dubai South,Apartment,1,1459000,60/40
+PROP-00424,Sobha One,Sobha Realty,Jumeirah Village Circle (JVC),Villa,4,4849000,70/30
+PROP-00095,Danube Diamondz,Danube Properties,Palm Jumeirah,Villa,3,4912000,Post Handover 60/40
+PROP-00261,Azizi Aliyah,Azizi Developments,Business Bay,Studio,0,520000,DLD Waiver Offer
+PROP-00005,Binghatti Aquarise,Binghatti Developers,Downtown Dubai,Apartment,2,1753000,DLD Waiver Offer
+PROP-00176,Sobha Seahaven,Sobha Realty,Dubai Marina,Apartment,1,1688000,70/30
+PROP-00100,Sobha Creek Vistas,Sobha Realty,Jumeirah Lake Towers (JLT),Apartment,2,1859000,80/20
+PROP-00514,DAMAC Lagoons,DAMAC Properties,Dubai Marina,Studio,0,707000,1% Monthly
+PROP-00253,Emaar Beachfront,Emaar Properties,Mohammed Bin Rashid City (MBR City),Apartment,3,1910000,60/40
+PROP-00418,Binghatti Aquarise,Binghatti Developers,Jumeirah Village Circle (JVC),Townhouse,2,2400000,70/30
+PROP-00398,Danube Oceanz,Danube Properties,Dubai Marina,Apartment,2,1757000,80/20
+PROP-00565,Aykon City,DAMAC Properties,Mohammed Bin Rashid City (MBR City),Townhouse,4,3512000,1% Monthly
+PROP-00312,La Mer Residences,Meraas,Dubai Hills Estate,Apartment,1,1920000,60/40
+PROP-00048,Creek Rise,Emaar Properties,Business Bay,Studio,0,671000,80/20
+PROP-00224,Hayat Townhouses,Nshama,Dubai Marina,Apartment,3,2459000,80/20
+PROP-00335,Deira Islands,Nakheel,Arabian Ranches,Apartment,3,2128000,70/30
+PROP-00354,Azizi Aliyah,Azizi Developments,Business Bay,Villa,5,5516000,60/40
+PROP-00516,Sobha One,Sobha Realty,Downtown Dubai,Apartment,2,2015000,80/20
+PROP-00319,Creek Rise,Emaar Properties,Dubai Marina,Apartment,3,2164000,Post Handover 60/40
+PROP-00345,Fay Alreeman,Aldar Properties,Jumeirah Village Circle (JVC),Studio,0,581000,1% Monthly
+PROP-00243,Deira Islands,Nakheel,Business Bay,Apartment,1,2221000,50/50
+PROP-00507,City Walk,Meraas,Downtown Dubai,Apartment,3,2225000,Post Handover 60/40
+PROP-00047,Port De La Mer,Meraas,Dubai Silicon Oasis,Townhouse,3,2941000,80/20
+PROP-00123,Dubai Hills Views,Emaar Properties,Dubai Hills Estate,Apartment,1,1510000,80/20
+PROP-00523,Sobha One,Sobha Realty,Damac Hills 2,Apartment,3,2112000,50/50
+PROP-00286,DAMAC Lagoons,DAMAC Properties,Palm Jumeirah,Apartment,2,1864000,60/40
+PROP-00571,Wilton Terraces,Ellington Properties,Arabian Ranches,Apartment,2,1968000,60/40
+PROP-00182,Binghatti Aquarise,Binghatti Developers,Dubai Hills Estate,Apartment,4,2671000,70/30
+PROP-00446,Yas Acres,Aldar Properties,Mohammed Bin Rashid City (MBR City),Apartment,1,1394000,DLD Waiver Offer
+PROP-00134,Haven,Aldar Properties,Al Furjan,Villa,3,4579000,50/50
+PROP-00285,Hayat Townhouses,Nshama,Dubai South,Villa,5,5541000,60/40
+PROP-00462,Belgravia,Ellington Properties,Dubai Marina,Apartment,1,1483000,1% Monthly
+PROP-00544,Danube Oceanz,Danube Properties,Damac Hills 2,Townhouse,3,2918000,50/50
+PROP-00353,Address Residences,Emaar Properties,Al Furjan,Villa,4,5464000,Post Handover 60/40
+PROP-00323,Address Residences,Emaar Properties,Dubai Creek Harbour,Apartment,3,2357000,50/50
+PROP-00267,DAMAC Lagoons,DAMAC Properties,Jumeirah Village Circle (JVC),Townhouse,3,2970000,80/20
+PROP-00412,Yas Acres,Aldar Properties,Dubai Silicon Oasis,Penthouse,3,9560000,70/30
+PROP-00208,Cavalli Couture,DAMAC Properties,Jumeirah Lake Towers (JLT),Studio,0,810000,60/40
+PROP-00583,La Mer Residences,Meraas,Mohammed Bin Rashid City (MBR City),Studio,0,725000,70/30
+PROP-00135,Yas Acres,Aldar Properties,Jumeirah Village Circle (JVC),Townhouse,4,3458000,Post Handover 60/40
+PROP-00395,Safa Two,DAMAC Properties,Arabian Ranches,Apartment,3,1860000,Post Handover 60/40
+PROP-00244,Danube Elitz,Danube Properties,Dubai Marina,Penthouse,4,10214000,1% Monthly
+PROP-00436,Danube Elitz,Danube Properties,Dubai South,Villa,4,4921000,70/30
+PROP-00078,Cavalli Couture,DAMAC Properties,Dubai Marina,Apartment,2,1391000,70/30
+PROP-00113,Palm Jebel Ali,Nakheel,Dubai Hills Estate,Apartment,3,1880000,Post Handover 60/40
+PROP-00502,Danube Elitz,Danube Properties,Downtown Dubai,Studio,0,768000,60/40
+PROP-00144,Nad Al Sheba Gardens,Nakheel,Al Furjan,Villa,4,4890000,60/40
+PROP-00390,Danube Elitz,Danube Properties,Jumeirah Lake Towers (JLT),Apartment,4,2448000,70/30
+PROP-00099,Sobha Seahaven,Sobha Realty,Jumeirah Lake Towers (JLT),Apartment,2,1965000,60/40
+PROP-00296,Sobha Seahaven,Sobha Realty,Palm Jumeirah,Villa,3,4346000,Post Handover 60/40
+PROP-00037,Danube Diamondz,Danube Properties,Downtown Dubai,Apartment,1,1361000,DLD Waiver Offer
+PROP-00121,La Mer Residences,Meraas,Palm Jumeirah,Penthouse,4,9551000,60/40
+PROP-00014,Emaar Beachfront,Emaar Properties,Dubai South,Apartment,1,1742000,60/40
+PROP-00560,Danube Oceanz,Danube Properties,Jumeirah Village Circle (JVC),Studio,0,532000,DLD Waiver Offer
+PROP-00524,Sobha Creek Vistas,Sobha Realty,Mohammed Bin Rashid City (MBR City),Apartment,3,2161000,60/40
+PROP-00506,Wilton Terraces,Ellington Properties,Dubai Marina,Apartment,3,2391000,Post Handover 60/40
+PROP-00096,Belgravia,Ellington Properties,Jumeirah Lake Towers (JLT),Apartment,1,1625000,60/40
+PROP-00370,Nad Al Sheba Gardens,Nakheel,Mohammed Bin Rashid City (MBR City),Apartment,2,1821000,70/30
+PROP-00411,Danube Elitz,Danube Properties,Business Bay,Villa,5,5977000,Post Handover 60/40
+PROP-00539,Safa Two,DAMAC Properties,Business Bay,Apartment,1,1488000,50/50
+PROP-00342,Haven,Aldar Properties,Jumeirah Lake Towers (JLT),Apartment,3,2079000,80/20
+PROP-00056,Binghatti Canal,Binghatti Developers,Al Furjan,Apartment,1,1594000,80/20
+PROP-00264,DAMAC Hills 2,DAMAC Properties,Jumeirah Village Circle (JVC),Townhouse,3,2816000,80/20
+PROP-00259,Jumeirah Islands,Nakheel,Dubai South,Apartment,1,1367000,60/40
+PROP-00532,Port De La Mer,Meraas,Dubai Creek Harbour,Apartment,1,1458000,Post Handover 60/40
+PROP-00470,Haven,Aldar Properties,Dubai South,Studio,0,750000,60/40
+PROP-00041,Azizi Riviera,Azizi Developments,Jumeirah Village Circle (JVC),Townhouse,3,2255000,80/20
+PROP-00194,Port De La Mer,Meraas,Jumeirah Village Circle (JVC),Studio,0,585000,60/40
+PROP-00316,City Walk,Meraas,Business Bay,Apartment,2,1914000,70/30
+PROP-00220,The Sanctuary,Ellington Properties,Jumeirah Village Circle (JVC),Villa,3,4953000,60/40
+PROP-00234,La Mer Residences,Meraas,Downtown Dubai,Villa,4,4686000,60/40
+PROP-00300,Mudon,Dubai Properties,Downtown Dubai,Apartment,2,1788000,DLD Waiver Offer
+PROP-00001,Danube Diamondz,Danube Properties,Business Bay,Villa,4,5448000,80/20
+PROP-00200,Hayat Townhouses,Nshama,Downtown Dubai,Villa,4,6731000,DLD Waiver Offer
+PROP-00299,Creek Rise,Emaar Properties,Palm Jumeirah,Apartment,1,1265000,70/30
+PROP-00432,Azizi Aliyah,Azizi Developments,Dubai Hills Estate,Apartment,2,1893000,80/20
+PROP-00505,Wilton Terraces,Ellington Properties,Jumeirah Village Circle (JVC),Apartment,1,1145000,Post Handover 60/40
+PROP-00273,Sobha One,Sobha Realty,Jumeirah Village Circle (JVC),Apartment,2,1927000,80/20
+PROP-00355,Nad Al Sheba Gardens,Nakheel,Dubai Hills Estate,Apartment,1,1340000,80/20
+PROP-00419,Town Square,Nshama,Dubai Marina,Apartment,1,1495000,70/30
+PROP-00549,Emaar Beachfront,Emaar Properties,Al Furjan,Apartment,1,1269000,80/20
+PROP-00534,Serena,Dubai Properties,Downtown Dubai,Apartment,2,1807000,60/40
+PROP-00434,Nad Al Sheba Gardens,Nakheel,Business Bay,Villa,3,4024000,70/30
+PROP-00191,Hayat Townhouses,Nshama,Mohammed Bin Rashid City (MBR City),Apartment,1,1259000,70/30
+PROP-00570,Fay Alreeman,Aldar Properties,Downtown Dubai,Apartment,3,2195000,DLD Waiver Offer
+PROP-00231,Deira Islands,Nakheel,Jumeirah Lake Towers (JLT),Apartment,2,1570000,DLD Waiver Offer
+PROP-00482,Haven,Aldar Properties,Jumeirah Lake Towers (JLT),Apartment,3,1628000,60/40
+PROP-00207,Azizi Riviera,Azizi Developments,Jumeirah Village Circle (JVC),Apartment,1,1063000,70/30
+PROP-00596,Azizi Venice,Azizi Developments,Dubai Marina,Villa,4,5047000,50/50
+PROP-00064,Sobha Hartland,Sobha Realty,Dubai South,Apartment,3,2266000,DLD Waiver Offer
+PROP-00485,Danube Diamondz,Danube Properties,Dubai Silicon Oasis,Villa,4,5806000,80/20
+PROP-00509,The Valley,Emaar Properties,Dubai Hills Estate,Studio,0,495000,80/20
+PROP-00132,Hayat Townhouses,Nshama,Jumeirah Village Circle (JVC),Studio,0,824000,70/30
+PROP-00527,Sobha Creek Vistas,Sobha Realty,Dubai Marina,Villa,3,4387000,50/50
+PROP-00063,Danube Oceanz,Danube Properties,Dubai Hills Estate,Apartment,4,2341000,50/50
+PROP-00274,The Sanctuary,Ellington Properties,Dubai Marina,Apartment,3,1745000,70/30
+PROP-00203,Binghatti Aquarise,Binghatti Developers,Dubai South,Apartment,2,1863000,70/30
+PROP-00201,Creek Rise,Emaar Properties,Jumeirah Lake Towers (JLT),Apartment,4,2236000,Post Handover 60/40
+PROP-00478,Aykon City,DAMAC Properties,Dubai Silicon Oasis,Studio,0,736000,60/40
+PROP-00116,Azizi Aliyah,Azizi Developments,Dubai Creek Harbour,Apartment,1,1200000,1% Monthly
+PROP-00183,1/JVC,Dubai Properties,Mohammed Bin Rashid City (MBR City),Apartment,3,2508000,Post Handover 60/40
+PROP-00385,Aykon City,DAMAC Properties,Downtown Dubai,Studio,0,488000,1% Monthly
+PROP-00305,Sobha Hartland,Sobha Realty,Arabian Ranches,Villa,3,5516000,80/20
+PROP-00111,Port De La Mer,Meraas,Dubai South,Townhouse,3,2735000,1% Monthly
+PROP-00092,Belgravia,Ellington Properties,Dubai South,Townhouse,3,3458000,60/40
+PROP-00337,Town Square,Nshama,Jumeirah Village Circle (JVC),Villa,4,5758000,1% Monthly
+PROP-00160,Binghatti Jacob & Co,Binghatti Developers,Business Bay,Apartment,2,1771000,50/50
+PROP-00102,Jumeirah Islands,Nakheel,Business Bay,Apartment,1,1328000,DLD Waiver Offer
+PROP-00133,Azizi Aliyah,Azizi Developments,Dubai Creek Harbour,Townhouse,3,2780000,1% Monthly
+PROP-00229,Fay Alreeman,Aldar Properties,Jumeirah Lake Towers (JLT),Apartment,1,1182000,50/50
+PROP-00591,Mudon,Dubai Properties,Dubai South,Apartment,3,2264000,80/20
+PROP-00290,Danube Elitz,Danube Properties,Damac Hills 2,Apartment,4,2684000,Post Handover 60/40
+PROP-00192,Bluewaters Residences,Meraas,Dubai Silicon Oasis,Penthouse,5,9824000,Post Handover 60/40
+PROP-00533,The Sanctuary,Ellington Properties,Dubai Hills Estate,Apartment,3,2186000,1% Monthly
+PROP-00425,Danube Elitz,Danube Properties,Jumeirah Village Circle (JVC),Apartment,2,1607000,50/50
+PROP-00003,Safa Two,DAMAC Properties,Dubai Creek Harbour,Apartment,2,1930000,1% Monthly
+PROP-00402,Belgravia,Ellington Properties,Jumeirah Lake Towers (JLT),Apartment,4,2468000,70/30
+PROP-00262,Creek Rise,Emaar Properties,Dubai Hills Estate,Townhouse,3,2682000,Post Handover 60/40
+PROP-00374,Dubai Hills Views,Emaar Properties,Dubai Creek Harbour,Apartment,3,1477000,Post Handover 60/40
+PROP-00343,The Valley,Emaar Properties,Dubai Silicon Oasis,Apartment,1,1640000,DLD Waiver Offer
+PROP-00521,Emaar Beachfront,Emaar Properties,Al Furjan,Villa,3,4420000,60/40
+PROP-00582,Sobha Seahaven,Sobha Realty,Jumeirah Lake Towers (JLT),Villa,6,6426000,Post Handover 60/40
+PROP-00216,DAMAC Lagoons,DAMAC Properties,Palm Jumeirah,Villa,4,5398000,80/20
+PROP-00146,Mudon,Dubai Properties,Palm Jumeirah,Apartment,2,2081000,Post Handover 60/40
+PROP-00332,City Walk,Meraas,Downtown Dubai,Apartment,2,1623000,Post Handover 60/40
+PROP-00452,Haven,Aldar Properties,Dubai South,Townhouse,3,2870000,70/30
+PROP-00346,Wilton Terraces,Ellington Properties,Dubai South,Apartment,2,1782000,80/20
+PROP-00155,Belgravia,Ellington Properties,Dubai Marina,Villa,5,5448000,60/40
+PROP-00211,Jumeirah Islands,Nakheel,Jumeirah Lake Towers (JLT),Apartment,2,2344000,Post Handover 60/40
+PROP-00401,Port De La Mer,Meraas,Jumeirah Village Circle (JVC),Villa,3,5129000,70/30
+PROP-00426,Mudon,Dubai Properties,Dubai Marina,Apartment,2,2087000,60/40
+PROP-00035,Mudon,Dubai Properties,Arabian Ranches,Townhouse,2,2210000,60/40
+PROP-00090,Jumeirah Islands,Nakheel,Al Furjan,Villa,6,6275000,70/30
+PROP-00172,Azizi Riviera,Azizi Developments,Al Furjan,Studio,0,824000,60/40
+PROP-00225,Hayat Townhouses,Nshama,Al Furjan,Penthouse,4,8845000,Post Handover 60/40
+PROP-00403,Mudon,Dubai Properties,Dubai Marina,Apartment,1,1446000,70/30
+PROP-00057,Azizi Venice,Azizi Developments,Dubai Hills Estate,Apartment,2,1631000,Post Handover 60/40
+PROP-00307,Sobha Hartland,Sobha Realty,Jumeirah Village Circle (JVC),Apartment,2,1712000,60/40
+PROP-00089,Azizi Aliyah,Azizi Developments,Palm Jumeirah,Studio,0,894000,60/40
+PROP-00101,DAMAC Hills 2,DAMAC Properties,Business Bay,Apartment,2,1979000,Post Handover 60/40
+PROP-00153,Sobha Seahaven,Sobha Realty,Business Bay,Apartment,1,1211000,Post Handover 60/40
+PROP-00294,Hayat Townhouses,Nshama,Dubai Marina,Apartment,1,1353000,50/50
+PROP-00181,Safa Two,DAMAC Properties,Business Bay,Villa,3,5233000,80/20
+PROP-00157,Binghatti Aquarise,Binghatti Developers,Mohammed Bin Rashid City (MBR City),Studio,0,584000,60/40
+PROP-00435,Emaar Beachfront,Emaar Properties,Palm Jumeirah,Studio,0,745000,60/40
+PROP-00422,Fay Alreeman,Aldar Properties,Dubai Marina,Apartment,1,1619000,Post Handover 60/40
+PROP-00228,Palm Jebel Ali,Nakheel,Palm Jumeirah,Apartment,3,1800000,80/20
+PROP-00221,Danube Diamondz,Danube Properties,Arabian Ranches,Townhouse,2,2468000,60/40
+PROP-00143,City Walk,Meraas,Business Bay,Apartment,3,2296000,70/30
+PROP-00233,Belgravia,Ellington Properties,Dubai Silicon Oasis,Apartment,4,2329000,70/30
+PROP-00149,Sobha Creek Vistas,Sobha Realty,Dubai Marina,Studio,0,868000,70/30
+PROP-00239,Azizi Riviera,Azizi Developments,Jumeirah Village Circle (JVC),Apartment,2,2156000,70/30
+PROP-00223,Mudon,Dubai Properties,Downtown Dubai,Apartment,2,2224000,60/40
+PROP-00513,Sobha Creek Vistas,Sobha Realty,Mohammed Bin Rashid City (MBR City),Penthouse,3,7947000,Post Handover 60/40
+PROP-00302,Serena,Dubai Properties,Business Bay,Apartment,1,1245000,50/50
+PROP-00388,Sobha One,Sobha Realty,Jumeirah Village Circle (JVC),Townhouse,4,3123000,50/50
+PROP-00444,1/JVC,Dubai Properties,Downtown Dubai,Apartment,1,1424000,60/40
+PROP-00365,Belgravia,Ellington Properties,Jumeirah Village Circle (JVC),Townhouse,4,3105000,60/40
+PROP-00441,Danube Oceanz,Danube Properties,Business Bay,Townhouse,3,2985000,1% Monthly
+PROP-00103,Hayat Townhouses,Nshama,Business Bay,Apartment,1,1387000,70/30
+PROP-00317,Sobha Seahaven,Sobha Realty,Jumeirah Lake Towers (JLT),Studio,0,612000,50/50
+PROP-00572,Sobha Creek Vistas,Sobha Realty,Mohammed Bin Rashid City (MBR City),Townhouse,4,3097000,Post Handover 60/40
+PROP-00328,Bluewaters Residences,Meraas,Business Bay,Apartment,1,1677000,Post Handover 60/40
+PROP-00278,Creek Rise,Emaar Properties,Downtown Dubai,Villa,4,4804000,DLD Waiver Offer
+PROP-00012,Binghatti Jacob & Co,Binghatti Developers,Business Bay,Apartment,1,1497000,80/20
+PROP-00118,Address Residences,Emaar Properties,Damac Hills 2,Apartment,2,1721000,60/40
+PROP-00557,Wilton Terraces,Ellington Properties,Jumeirah Lake Towers (JLT),Apartment,3,2080000,70/30
+PROP-00195,Deira Islands,Nakheel,Dubai Silicon Oasis,Apartment,3,2419000,50/50
+PROP-00500,Binghatti Jacob & Co,Binghatti Developers,Dubai Silicon Oasis,Townhouse,3,3042000,50/50
+PROP-00450,Belgravia,Ellington Properties,Dubai Marina,Villa,6,6157000,70/30
+PROP-00522,The Sanctuary,Ellington Properties,Downtown Dubai,Apartment,2,1513000,60/40
+PROP-00292,La Mer Residences,Meraas,Palm Jumeirah,Apartment,4,2706000,DLD Waiver Offer
+PROP-00375,The Valley,Emaar Properties,Dubai Marina,Apartment,2,1442000,60/40
+PROP-00318,Mudon,Dubai Properties,Dubai Hills Estate,Apartment,2,1830000,80/20
+PROP-00026,Binghatti Canal,Binghatti Developers,Mohammed Bin Rashid City (MBR City),Apartment,2,1695000,50/50
+PROP-00519,Sobha Hartland,Sobha Realty,Al Furjan,Studio,0,855000,70/30
+PROP-00219,Azizi Aliyah,Azizi Developments,Dubai Marina,Apartment,2,1865000,Post Handover 60/40
+PROP-00451,Port De La Mer,Meraas,Dubai Hills Estate,Apartment,2,1855000,1% Monthly
+PROP-00109,Sobha One,Sobha Realty,Downtown Dubai,Apartment,1,1384000,80/20
+PROP-00489,Azizi Venice,Azizi Developments,Downtown Dubai,Studio,0,476000,DLD Waiver Offer
+PROP-00407,The Sanctuary,Ellington Properties,Business Bay,Penthouse,3,8640000,Post Handover 60/40
+PROP-00094,Serena,Dubai Properties,Downtown Dubai,Villa,4,4809000,60/40
+PROP-00547,Binghatti Aquarise,Binghatti Developers,Dubai Hills Estate,Studio,0,747000,Post Handover 60/40
+PROP-00138,Town Square,Nshama,Business Bay,Apartment,3,2446000,80/20
+PROP-00581,Creek Rise,Emaar Properties,Downtown Dubai,Apartment,1,1448000,Post Handover 60/40
+PROP-00204,Danube Elitz,Danube Properties,Damac Hills 2,Apartment,1,1462000,1% Monthly
+PROP-00210,Azizi Venice,Azizi Developments,Al Furjan,Townhouse,4,3034000,60/40
+PROP-00173,Binghatti Canal,Binghatti Developers,Downtown Dubai,Villa,5,5538000,Post Handover 60/40
+PROP-00007,Bluewaters Residences,Meraas,Dubai Creek Harbour,Apartment,3,2466000,50/50
+PROP-00258,Binghatti Jacob & Co,Binghatti Developers,Dubai Marina,Penthouse,4,10022000,80/20
+PROP-00379,Hayat Townhouses,Nshama,Dubai Marina,Penthouse,5,11194000,50/50
+PROP-00372,Wilton Terraces,Ellington Properties,Downtown Dubai,Apartment,3,1882000,Post Handover 60/40
+PROP-00481,Danube Oceanz,Danube Properties,Business Bay,Apartment,2,2068000,Post Handover 60/40
+PROP-00062,Haven,Aldar Properties,Mohammed Bin Rashid City (MBR City),Studio,0,629000,1% Monthly
+PROP-00170,Hayat Townhouses,Nshama,Dubai Creek Harbour,Apartment,1,1453000,DLD Waiver Offer
+PROP-00490,Dubai Hills Views,Emaar Properties,Dubai South,Penthouse,4,10847000,60/40
+PROP-00430,The Sanctuary,Ellington Properties,Al Furjan,Apartment,2,1738000,1% Monthly
+PROP-00141,DAMAC Hills 2,DAMAC Properties,Dubai Silicon Oasis,Villa,6,6093000,Post Handover 60/40
+PROP-00529,Jumeirah Islands,Nakheel,Mohammed Bin Rashid City (MBR City),Townhouse,4,3591000,60/40
+PROP-00020,Binghatti Canal,Binghatti Developers,Damac Hills 2,Studio,0,879000,1% Monthly
+PROP-00119,1/JVC,Dubai Properties,Dubai Marina,Villa,4,5055000,60/40
+PROP-00071,Danube Oceanz,Danube Properties,Damac Hills 2,Apartment,2,1621000,80/20
+PROP-00002,Creek Rise,Emaar Properties,Business Bay,Townhouse,3,2765000,80/20
+PROP-00499,Address Residences,Emaar Properties,Damac Hills 2,Townhouse,2,2029000,1% Monthly
+PROP-00304,1/JVC,Dubai Properties,Dubai Silicon Oasis,Apartment,2,1550000,80/20
+PROP-00137,Cavalli Couture,DAMAC Properties,Dubai Marina,Apartment,3,1650000,50/50
+PROP-00246,Dubai Hills Views,Emaar Properties,Downtown Dubai,Apartment,2,1991000,Post Handover 60/40
+PROP-00350,Sobha Hartland,Sobha Realty,Arabian Ranches,Apartment,2,2136000,DLD Waiver Offer
+PROP-00308,Binghatti Aquarise,Binghatti Developers,Mohammed Bin Rashid City (MBR City),Studio,0,883000,Post Handover 60/40
+PROP-00085,La Mer Residences,Meraas,Dubai Marina,Apartment,3,2824000,Post Handover 60/40
+PROP-00397,City Walk,Meraas,Jumeirah Village Circle (JVC),Apartment,1,1306000,80/20
+PROP-00008,Belgravia,Ellington Properties,Dubai Hills Estate,Studio,0,779000,50/50
+PROP-00428,Sobha Creek Vistas,Sobha Realty,Palm Jumeirah,Apartment,2,1771000,DLD Waiver Offer
+PROP-00108,1/JVC,Dubai Properties,Arabian Ranches,Apartment,2,1950000,Post Handover 60/40
+PROP-00043,Deira Islands,Nakheel,Business Bay,Apartment,3,2185000,DLD Waiver Offer
+PROP-00202,Port De La Mer,Meraas,Jumeirah Village Circle (JVC),Apartment,2,1944000,50/50
+PROP-00448,Bluewaters Residences,Meraas,Downtown Dubai,Townhouse,2,2226000,60/40
+PROP-00453,Aykon City,DAMAC Properties,Al Furjan,Apartment,4,2010000,70/30
+PROP-00230,Danube Oceanz,Danube Properties,Al Furjan,Apartment,3,1826000,Post Handover 60/40
+PROP-00439,The Sanctuary,Ellington Properties,Business Bay,Villa,4,5486000,80/20
+PROP-00129,Sobha Creek Vistas,Sobha Realty,Damac Hills 2,Villa,4,5187000,70/30
+PROP-00009,Hayat Townhouses,Nshama,Downtown Dubai,Studio,0,515000,70/30
+PROP-00476,Danube Elitz,Danube Properties,Jumeirah Lake Towers (JLT),Apartment,3,2164000,70/30
+PROP-00241,Azizi Riviera,Azizi Developments,Al Furjan,Apartment,1,1553000,Post Handover 60/40
+PROP-00098,Azizi Venice,Azizi Developments,Business Bay,Townhouse,3,3206000,50/50
+PROP-00104,Azizi Riviera,Azizi Developments,Business Bay,Studio,0,807000,1% Monthly
+PROP-00291,Serena,Dubai Properties,Dubai Silicon Oasis,Apartment,1,1874000,70/30
+PROP-00065,Serena,Dubai Properties,Damac Hills 2,Studio,0,464000,80/20
+PROP-00455,Azizi Aliyah,Azizi Developments,Arabian Ranches,Townhouse,2,2473000,1% Monthly
+PROP-00504,DAMAC Hills 2,DAMAC Properties,Dubai Marina,Apartment,3,2267000,50/50
+PROP-00060,Sobha Creek Vistas,Sobha Realty,Palm Jumeirah,Villa,5,5562000,1% Monthly
+PROP-00545,1/JVC,Dubai Properties,Dubai South,Townhouse,3,2710000,80/20
+PROP-00399,Azizi Venice,Azizi Developments,Al Furjan,Apartment,2,1862000,Post Handover 60/40
+PROP-00077,Binghatti Canal,Binghatti Developers,Dubai Hills Estate,Studio,0,475000,Post Handover 60/40
+PROP-00082,Address Residences,Emaar Properties,Downtown Dubai,Apartment,1,1609000,50/50
+PROP-00193,Villanova,Dubai Properties,Jumeirah Lake Towers (JLT),Villa,5,5135000,50/50
+PROP-00443,DAMAC Hills 2,DAMAC Properties,Dubai South,Apartment,3,2290000,1% Monthly
+PROP-00587,Azizi Venice,Azizi Developments,Business Bay,Townhouse,4,2683000,Post Handover 60/40
+PROP-00575,Sobha Hartland,Sobha Realty,Jumeirah Lake Towers (JLT),Apartment,3,2111000,60/40
+PROP-00309,Address Residences,Emaar Properties,Dubai Silicon Oasis,Villa,4,5265000,70/30
+PROP-00257,Danube Diamondz,Danube Properties,Palm Jumeirah,Studio,0,506000,70/30
+PROP-00542,The Sanctuary,Ellington Properties,Downtown Dubai,Townhouse,3,2832000,50/50
+PROP-00518,Safa Two,DAMAC Properties,Arabian Ranches,Apartment,2,1871000,Post Handover 60/40
+PROP-00440,Azizi Aliyah,Azizi Developments,Jumeirah Lake Towers (JLT),Penthouse,3,9773000,80/20
+PROP-00190,Emaar Beachfront,Emaar Properties,Dubai Hills Estate,Villa,4,5567000,60/40
+PROP-00209,Palm Jebel Ali,Nakheel,Palm Jumeirah,Villa,3,4276000,1% Monthly
+PROP-00068,Binghatti Jacob & Co,Binghatti Developers,Dubai Marina,Villa,4,5852000,60/40
+PROP-00158,Wilton Terraces,Ellington Properties,Dubai Marina,Townhouse,3,2817000,DLD Waiver Offer
+PROP-00196,Binghatti Canal,Binghatti Developers,Downtown Dubai,Apartment,2,1653000,60/40
+PROP-00067,Wilton Terraces,Ellington Properties,Arabian Ranches,Apartment,1,1545000,Post Handover 60/40
+PROP-00563,Belgravia,Ellington Properties,Dubai Hills Estate,Penthouse,4,9138000,70/30
+PROP-00139,Danube Elitz,Danube Properties,Dubai South,Apartment,1,1882000,80/20
+PROP-00199,Bluewaters Residences,Meraas,Jumeirah Village Circle (JVC),Townhouse,2,2659000,60/40
+PROP-00463,Haven,Aldar Properties,Dubai Marina,Apartment,1,1612000,Post Handover 60/40
+PROP-00075,La Mer Residences,Meraas,Dubai South,Villa,4,4602000,Post Handover 60/40
+PROP-00369,Palm Jebel Ali,Nakheel,Dubai Hills Estate,Apartment,4,2697000,70/30
+PROP-00287,Jumeirah Islands,Nakheel,Business Bay,Studio,0,470000,DLD Waiver Offer
+PROP-00112,Town Square,Nshama,Arabian Ranches,Apartment,2,1892000,1% Monthly
+PROP-00277,Binghatti Aquarise,Binghatti Developers,Dubai Marina,Villa,5,6126000,70/30
+PROP-00148,Serena,Dubai Properties,Business Bay,Villa,4,4760000,1% Monthly
+PROP-00022,Danube Oceanz,Danube Properties,Business Bay,Studio,0,482000,Post Handover 60/40
+PROP-00392,1/JVC,Dubai Properties,Business Bay,Studio,0,631000,80/20
+PROP-00352,Haven,Aldar Properties,Jumeirah Village Circle (JVC),Apartment,1,1772000,80/20
+PROP-00416,Dubai Hills Views,Emaar Properties,Dubai South,Studio,0,681000,70/30
+PROP-00526,Yas Acres,Aldar Properties,Dubai Hills Estate,Studio,0,825000,80/20
+PROP-00097,Serena,Dubai Properties,Jumeirah Village Circle (JVC),Apartment,2,2257000,Post Handover 60/40
+PROP-00145,Aykon City,DAMAC Properties,Arabian Ranches,Studio,0,818000,60/40
+PROP-00159,Nad Al Sheba Gardens,Nakheel,Jumeirah Lake Towers (JLT),Studio,0,665000,DLD Waiver Offer
+PROP-00495,Serena,Dubai Properties,Jumeirah Village Circle (JVC),Townhouse,2,2876000,DLD Waiver Offer
+PROP-00281,Villanova,Dubai Properties,Dubai Creek Harbour,Villa,3,5591000,60/40
+PROP-00427,City Walk,Meraas,Dubai Hills Estate,Villa,5,5349000,70/30
+PROP-00487,Jumeirah Islands,Nakheel,Dubai South,Townhouse,4,3112000,50/50
+PROP-00590,Port De La Mer,Meraas,Jumeirah Village Circle (JVC),Studio,0,754000,Post Handover 60/40
+PROP-00171,Belgravia,Ellington Properties,Dubai Hills Estate,Townhouse,3,2894000,50/50
+PROP-00174,Villanova,Dubai Properties,Dubai Silicon Oasis,Apartment,4,2459000,80/20
+PROP-00472,Sobha Creek Vistas,Sobha Realty,Arabian Ranches,Apartment,1,754000,50/50
+PROP-00598,Binghatti Jacob & Co,Binghatti Developers,Downtown Dubai,Apartment,3,2310000,DLD Waiver Offer
+PROP-00569,Emaar Beachfront,Emaar Properties,Business Bay,Penthouse,3,7878000,70/30
+PROP-00187,DAMAC Lagoons,DAMAC Properties,Jumeirah Lake Towers (JLT),Apartment,1,1823000,Post Handover 60/40
+PROP-00417,Azizi Venice,Azizi Developments,Downtown Dubai,Apartment,1,1588000,Post Handover 60/40
+PROP-00540,City Walk,Meraas,Jumeirah Village Circle (JVC),Townhouse,2,2899000,70/30
+PROP-00124,The Sanctuary,Ellington Properties,Business Bay,Apartment,1,1158000,50/50
+PROP-00339,Jumeirah Islands,Nakheel,Jumeirah Village Circle (JVC),Studio,0,859000,Post Handover 60/40
+PROP-00362,Town Square,Nshama,Downtown Dubai,Studio,0,781000,Post Handover 60/40
+PROP-00377,The Sanctuary,Ellington Properties,Dubai Hills Estate,Villa,3,5302000,50/50
+PROP-00447,Town Square,Nshama,Jumeirah Village Circle (JVC),Apartment,3,2209000,50/50
+PROP-00070,Haven,Aldar Properties,Jumeirah Village Circle (JVC),Townhouse,2,2649000,80/20
+PROP-00140,Azizi Aliyah,Azizi Developments,Mohammed Bin Rashid City (MBR City),Townhouse,4,3408000,50/50
+PROP-00535,Yas Acres,Aldar Properties,Dubai Creek Harbour,Apartment,3,2310000,DLD Waiver Offer
+PROP-00445,Dubai Hills Views,Emaar Properties,Dubai Hills Estate,Apartment,1,1435000,60/40
+PROP-00088,Binghatti Aquarise,Binghatti Developers,Al Furjan,Apartment,3,2138000,50/50
+PROP-00028,Dubai Hills Views,Emaar Properties,Dubai Hills Estate,Apartment,2,1395000,60/40
+PROP-00330,Azizi Riviera,Azizi Developments,Dubai Silicon Oasis,Apartment,1,1221000,70/30
+PROP-00468,Danube Diamondz,Danube Properties,Business Bay,Studio,0,833000,50/50
+PROP-00303,Danube Elitz,Danube Properties,Mohammed Bin Rashid City (MBR City),Apartment,3,2099000,80/20
+PROP-00358,Danube Oceanz,Danube Properties,Mohammed Bin Rashid City (MBR City),Townhouse,3,2416000,60/40
+PROP-00049,City Walk,Meraas,Jumeirah Lake Towers (JLT),Apartment,2,1805000,60/40
+PROP-00284,1/JVC,Dubai Properties,Mohammed Bin Rashid City (MBR City),Villa,3,4533000,80/20
+PROP-00380,Nad Al Sheba Gardens,Nakheel,Al Furjan,Apartment,2,1933000,60/40
+PROP-00537,Sobha Hartland,Sobha Realty,Downtown Dubai,Studio,0,590000,Post Handover 60/40
+PROP-00405,Town Square,Nshama,Jumeirah Lake Towers (JLT),Apartment,2,1796000,70/30
+PROP-00313,Port De La Mer,Meraas,Palm Jumeirah,Townhouse,3,2901000,70/30
+PROP-00184,Binghatti Aquarise,Binghatti Developers,Jumeirah Village Circle (JVC),Studio,0,838000,1% Monthly
+PROP-00107,Mudon,Dubai Properties,Damac Hills 2,Townhouse,3,2714000,60/40
+PROP-00283,Creek Rise,Emaar Properties,Dubai Hills Estate,Apartment,2,1665000,Post Handover 60/40
+PROP-00442,The Valley,Emaar Properties,Dubai Marina,Apartment,3,2445000,1% Monthly
+PROP-00517,Mudon,Dubai Properties,Mohammed Bin Rashid City (MBR City),Townhouse,3,2819000,70/30
+PROP-00036,Wilton Terraces,Ellington Properties,Mohammed Bin Rashid City (MBR City),Studio,0,651000,50/50
+PROP-00579,Safa Two,DAMAC Properties,Mohammed Bin Rashid City (MBR City),Apartment,1,1485000,Post Handover 60/40
+PROP-00551,Belgravia,Ellington Properties,Palm Jumeirah,Apartment,2,1790000,Post Handover 60/40
+PROP-00212,Deira Islands,Nakheel,Dubai Hills Estate,Apartment,2,1925000,Post Handover 60/40
+PROP-00488,Fay Alreeman,Aldar Properties,Dubai Marina,Apartment,3,2472000,50/50
+PROP-00471,Binghatti Aquarise,Binghatti Developers,Business Bay,Villa,5,5968000,50/50
+PROP-00327,Wilton Terraces,Ellington Properties,Downtown Dubai,Apartment,1,1543000,70/30
+PROP-00329,Sobha One,Sobha Realty,Jumeirah Village Circle (JVC),Villa,5,5923000,70/30
+PROP-00227,Nad Al Sheba Gardens,Nakheel,Downtown Dubai,Apartment,3,2128000,DLD Waiver Offer
+PROP-00550,Belgravia,Ellington Properties,Arabian Ranches,Apartment,1,1413000,DLD Waiver Offer
+PROP-00033,Villanova,Dubai Properties,Dubai Creek Harbour,Townhouse,3,2893000,50/50
+PROP-00268,Port De La Mer,Meraas,Arabian Ranches,Townhouse,2,2317000,Post Handover 60/40
+PROP-00039,Haven,Aldar Properties,Dubai Hills Estate,Villa,5,5861000,50/50
+PROP-00276,Jumeirah Islands,Nakheel,Dubai South,Townhouse,3,2635000,60/40
+PROP-00166,Fay Alreeman,Aldar Properties,Jumeirah Village Circle (JVC),Studio,0,825000,Post Handover 60/40
+PROP-00484,Yas Acres,Aldar Properties,Damac Hills 2,Townhouse,2,2648000,60/40
+PROP-00586,Binghatti Aquarise,Binghatti Developers,Dubai South,Villa,4,5616000,70/30
+PROP-00114,La Mer Residences,Meraas,Jumeirah Lake Towers (JLT),Apartment,2,1596000,DLD Waiver Offer
+PROP-00510,Cavalli Couture,DAMAC Properties,Dubai Marina,Apartment,3,2223000,50/50
+PROP-00282,Hayat Townhouses,Nshama,Dubai Hills Estate,Studio,0,828000,Post Handover 60/40
+PROP-00573,Binghatti Canal,Binghatti Developers,Jumeirah Village Circle (JVC),Apartment,3,1822000,Post Handover 60/40
+PROP-00548,Bluewaters Residences,Meraas,Dubai Hills Estate,Apartment,2,1638000,70/30
+PROP-00433,Danube Oceanz,Danube Properties,Damac Hills 2,Villa,4,4680000,DLD Waiver Offer
+PROP-00364,Address Residences,Emaar Properties,Dubai Creek Harbour,Studio,0,894000,50/50
+PROP-00438,Emaar Beachfront,Emaar Properties,Al Furjan,Apartment,1,1522000,80/20
+PROP-00086,Town Square,Nshama,Mohammed Bin Rashid City (MBR City),Apartment,3,1966000,80/20
+PROP-00289,Belgravia,Ellington Properties,Dubai Marina,Apartment,1,1198000,60/40
+PROP-00242,Deira Islands,Nakheel,Dubai Marina,Apartment,1,1553000,60/40
+PROP-00265,Mudon,Dubai Properties,Jumeirah Village Circle (JVC),Townhouse,4,2831000,Post Handover 60/40
+PROP-00334,City Walk,Meraas,Jumeirah Village Circle (JVC),Villa,6,5991000,60/40
+PROP-00271,Haven,Aldar Properties,Business Bay,Villa,4,4874000,60/40
+PROP-00269,Belgravia,Ellington Properties,Palm Jumeirah,Apartment,3,2193000,1% Monthly
+PROP-00249,City Walk,Meraas,Business Bay,Apartment,1,1602000,Post Handover 60/40
+PROP-00013,Sobha One,Sobha Realty,Dubai Marina,Apartment,3,2174000,50/50
+PROP-00245,Villanova,Dubai Properties,Jumeirah Lake Towers (JLT),Villa,4,5768000,60/40
+PROP-00010,1/JVC,Dubai Properties,Damac Hills 2,Studio,0,713000,Post Handover 60/40
+PROP-00087,Aykon City,DAMAC Properties,Jumeirah Village Circle (JVC),Penthouse,3,8541000,70/30
+PROP-00420,DAMAC Lagoons,DAMAC Properties,Jumeirah Lake Towers (JLT),Studio,0,734000,60/40
+PROP-00371,Hayat Townhouses,Nshama,Dubai Creek Harbour,Apartment,3,2204000,80/20
+PROP-00297,City Walk,Meraas,Jumeirah Village Circle (JVC),Apartment,1,1539000,DLD Waiver Offer
+PROP-00406,Deira Islands,Nakheel,Business Bay,Studio,0,574000,Post Handover 60/40
+PROP-00236,Azizi Aliyah,Azizi Developments,Jumeirah Lake Towers (JLT),Studio,0,647000,70/30
+PROP-00156,Yas Acres,Aldar Properties,Dubai Hills Estate,Apartment,1,1140000,DLD Waiver Offer
+PROP-00250,Aykon City,DAMAC Properties,Dubai Marina,Townhouse,3,2607000,80/20
+PROP-00168,City Walk,Meraas,Jumeirah Village Circle (JVC),Townhouse,2,2192000,60/40
+PROP-00205,1/JVC,Dubai Properties,Jumeirah Village Circle (JVC),Villa,5,6155000,50/50
+PROP-00461,DAMAC Lagoons,DAMAC Properties,Dubai Hills Estate,Apartment,1,1495000,70/30
+PROP-00315,Danube Diamondz,Danube Properties,Al Furjan,Studio,0,848000,60/40
+PROP-00561,Town Square,Nshama,Business Bay,Studio,0,575000,1% Monthly
+PROP-00256,City Walk,Meraas,Jumeirah Village Circle (JVC),Penthouse,4,8090000,70/30
+PROP-00594,Binghatti Canal,Binghatti Developers,Damac Hills 2,Studio,0,627000,Post Handover 60/40
+PROP-00564,Danube Oceanz,Danube Properties,Jumeirah Lake Towers (JLT),Apartment,2,1880000,DLD Waiver Offer
+PROP-00492,Serena,Dubai Properties,Dubai Marina,Apartment,2,1850000,60/40
+PROP-00552,Aykon City,DAMAC Properties,Jumeirah Village Circle (JVC),Apartment,2,1588000,60/40
+PROP-00578,Azizi Riviera,Azizi Developments,Business Bay,Studio,0,637000,1% Monthly
+PROP-00525,Serena,Dubai Properties,Damac Hills 2,Penthouse,4,7645000,50/50
+PROP-00497,Town Square,Nshama,Dubai Marina,Studio,0,701000,Post Handover 60/40
+PROP-00556,Binghatti Aquarise,Binghatti Developers,Palm Jumeirah,Studio,0,555000,1% Monthly
+PROP-00322,Creek Rise,Emaar Properties,Jumeirah Lake Towers (JLT),Townhouse,2,2652000,1% Monthly
+PROP-00338,DAMAC Lagoons,DAMAC Properties,Downtown Dubai,Penthouse,5,9460000,80/20
+PROP-00574,Binghatti Aquarise,Binghatti Developers,Mohammed Bin Rashid City (MBR City),Apartment,1,1549000,1% Monthly
+PROP-00030,Hayat Townhouses,Nshama,Dubai Creek Harbour,Apartment,4,2656000,50/50
+PROP-00031,Villanova,Dubai Properties,Business Bay,Apartment,1,1230000,DLD Waiver Offer
+PROP-00568,Azizi Aliyah,Azizi Developments,Damac Hills 2,Apartment,3,1845000,1% Monthly
+PROP-00449,Sobha Creek Vistas,Sobha Realty,Business Bay,Villa,4,5370000,70/30
+PROP-00558,Binghatti Aquarise,Binghatti Developers,Dubai Marina,Townhouse,3,2272000,Post Handover 60/40
+PROP-00429,Azizi Aliyah,Azizi Developments,Dubai Marina,Apartment,2,1680000,70/30
+PROP-00130,Palm Jebel Ali,Nakheel,Jumeirah Village Circle (JVC),Apartment,3,2162000,DLD Waiver Offer
+PROP-00079,Sobha Creek Vistas,Sobha Realty,Jumeirah Village Circle (JVC),Apartment,3,2364000,Post Handover 60/40
+PROP-00408,Azizi Riviera,Azizi Developments,Downtown Dubai,Studio,0,480000,DLD Waiver Offer
+PROP-00347,Hayat Townhouses,Nshama,Jumeirah Village Circle (JVC),Apartment,4,2399000,50/50
+PROP-00081,Emaar Beachfront,Emaar Properties,Dubai Creek Harbour,Apartment,1,1645000,50/50
+PROP-00295,Port De La Mer,Meraas,Jumeirah Village Circle (JVC),Townhouse,3,3117000,80/20
+PROP-00218,The Sanctuary,Ellington Properties,Dubai Marina,Apartment,1,1401000,1% Monthly
+PROP-00456,Creek Rise,Emaar Properties,Downtown Dubai,Studio,0,872000,70/30
+PROP-00080,Danube Diamondz,Danube Properties,Palm Jumeirah,Studio,0,589000,Post Handover 60/40
+PROP-00083,Town Square,Nshama,Jumeirah Lake Towers (JLT),Villa,3,5448000,Post Handover 60/40
+PROP-00423,Emaar Beachfront,Emaar Properties,Downtown Dubai,Townhouse,3,2533000,DLD Waiver Offer
+PROP-00394,1/JVC,Dubai Properties,Al Furjan,Apartment,2,1846000,Post Handover 60/40
+PROP-00400,Binghatti Canal,Binghatti Developers,Jumeirah Village Circle (JVC),Villa,3,5438000,50/50
+PROP-00151,Danube Diamondz,Danube Properties,Al Furjan,Apartment,3,2156000,DLD Waiver Offer
+PROP-00333,Wilton Terraces,Ellington Properties,Damac Hills 2,Apartment,2,1660000,1% Monthly
+PROP-00131,Binghatti Jacob & Co,Binghatti Developers,Business Bay,Penthouse,3,11117000,80/20
+PROP-00240,Safa Two,DAMAC Properties,Dubai Marina,Apartment,1,1553000,Post Handover 60/40
+PROP-00357,Hayat Townhouses,Nshama,Jumeirah Village Circle (JVC),Penthouse,3,9106000,50/50
+PROP-00044,Town Square,Nshama,Dubai Marina,Apartment,3,2215000,1% Monthly
+PROP-00454,Azizi Venice,Azizi Developments,Dubai Hills Estate,Apartment,2,1620000,70/30
+PROP-00055,Hayat Townhouses,Nshama,Arabian Ranches,Townhouse,4,2723000,60/40
+PROP-00046,Sobha One,Sobha Realty,Business Bay,Apartment,1,1083000,1% Monthly
+PROP-00198,Creek Rise,Emaar Properties,Palm Jumeirah,Apartment,2,2021000,70/30
+PROP-00475,DAMAC Lagoons,DAMAC Properties,Downtown Dubai,Villa,3,5290000,1% Monthly
+PROP-00473,Emaar Beachfront,Emaar Properties,Downtown Dubai,Studio,0,762000,1% Monthly
+PROP-00538,Sobha Seahaven,Sobha Realty,Downtown Dubai,Studio,0,840000,1% Monthly
+PROP-00376,Sobha Creek Vistas,Sobha Realty,Dubai South,Apartment,2,1711000,80/20
+PROP-00270,Belgravia,Ellington Properties,Dubai Silicon Oasis,Penthouse,5,10541000,Post Handover 60/40
+PROP-00306,Danube Oceanz,Danube Properties,Dubai Hills Estate,Penthouse,3,7613000,Post Handover 60/40
+PROP-00543,Emaar Beachfront,Emaar Properties,Dubai Marina,Apartment,1,1623000,60/40
+PROP-00465,Nad Al Sheba Gardens,Nakheel,Arabian Ranches,Apartment,2,1963000,60/40
+PROP-00464,Safa Two,DAMAC Properties,Jumeirah Village Circle (JVC),Apartment,1,1635000,Post Handover 60/40
+PROP-00074,Binghatti Aquarise,Binghatti Developers,Damac Hills 2,Townhouse,4,2823000,70/30
+PROP-00034,Jumeirah Islands,Nakheel,Dubai Hills Estate,Apartment,1,1373000,60/40
+PROP-00389,Nad Al Sheba Gardens,Nakheel,Dubai South,Villa,5,5741000,80/20
+PROP-00011,Haven,Aldar Properties,Dubai South,Townhouse,3,2992000,70/30
+PROP-00115,Binghatti Aquarise,Binghatti Developers,Dubai Marina,Villa,3,4764000,70/30
+PROP-00120,Azizi Venice,Azizi Developments,Business Bay,Townhouse,4,3213000,Post Handover 60/40
+PROP-00189,Azizi Aliyah,Azizi Developments,Jumeirah Village Circle (JVC),Studio,0,762000,1% Monthly
+PROP-00301,Yas Acres,Aldar Properties,Palm Jumeirah,Villa,4,3579000,70/30
+PROP-00255,Town Square,Nshama,Dubai Marina,Apartment,3,2390000,Post Handover 60/40
+PROP-00251,Town Square,Nshama,Dubai South,Studio,0,592000,DLD Waiver Offer
+PROP-00178,Binghatti Canal,Binghatti Developers,Dubai Marina,Studio,0,517000,Post Handover 60/40
+PROP-00027,DAMAC Hills 2,DAMAC Properties,Dubai Hills Estate,Apartment,4,2883000,80/20
+PROP-00326,The Sanctuary,Ellington Properties,Dubai Creek Harbour,Villa,4,5441000,1% Monthly
+PROP-00293,Sobha Seahaven,Sobha Realty,Dubai Hills Estate,Apartment,1,1146000,1% Monthly
+PROP-00373,Belgravia,Ellington Properties,Dubai Hills Estate,Studio,0,589000,80/20
+PROP-00069,Port De La Mer,Meraas,Downtown Dubai,Apartment,2,1842000,60/40
+PROP-00025,Binghatti Canal,Binghatti Developers,Dubai Hills Estate,Townhouse,2,2474000,70/30
+PROP-00589,1/JVC,Dubai Properties,Jumeirah Lake Towers (JLT),Townhouse,3,2634000,Post Handover 60/40
+PROP-00051,Dubai Hills Views,Emaar Properties,Dubai Hills Estate,Studio,0,459000,Post Handover 60/40
+PROP-00480,La Mer Residences,Meraas,Dubai Marina,Townhouse,4,3203000,50/50
+PROP-00584,Sobha Creek Vistas,Sobha Realty,Arabian Ranches,Apartment,2,1913000,80/20
+PROP-00288,Azizi Venice,Azizi Developments,Dubai Hills Estate,Apartment,2,1478000,60/40
+PROP-00197,Azizi Aliyah,Azizi Developments,Downtown Dubai,Villa,6,5720000,Post Handover 60/40
+PROP-00058,Haven,Aldar Properties,Dubai South,Townhouse,3,2672000,80/20
+PROP-00053,Azizi Aliyah,Azizi Developments,Jumeirah Lake Towers (JLT),Apartment,3,2242000,60/40
+PROP-00494,Port De La Mer,Meraas,Dubai Marina,Apartment,2,1709000,60/40
+PROP-00477,Danube Oceanz,Danube Properties,Downtown Dubai,Townhouse,3,3315000,50/50
+PROP-00188,Binghatti Canal,Binghatti Developers,Business Bay,Villa,4,5437000,50/50
+PROP-00136,Town Square,Nshama,Palm Jumeirah,Villa,3,5233000,80/20
+PROP-00154,Town Square,Nshama,Arabian Ranches,Villa,6,6250000,60/40
+PROP-00413,Danube Elitz,Danube Properties,Jumeirah Lake Towers (JLT),Villa,6,5648000,80/20
+PROP-00585,Dubai Hills Views,Emaar Properties,Dubai Creek Harbour,Studio,0,461000,1% Monthly
+PROP-00206,Emaar Beachfront,Emaar Properties,Palm Jumeirah,Apartment,4,2494000,Post Handover 60/40
+PROP-00238,Danube Oceanz,Danube Properties,Downtown Dubai,Studio,0,456000,70/30
+PROP-00336,Binghatti Jacob & Co,Binghatti Developers,Al Furjan,Townhouse,4,2714000,Post Handover 60/40
+PROP-00072,Haven,Aldar Properties,Jumeirah Lake Towers (JLT),Studio,0,840000,70/30
+PROP-00474,1/JVC,Dubai Properties,Jumeirah Lake Towers (JLT),Apartment,2,1746000,DLD Waiver Offer
+PROP-00185,Danube Diamondz,Danube Properties,Jumeirah Lake Towers (JLT),Penthouse,3,9164000,60/40
+PROP-00017,Town Square,Nshama,Al Furjan,Apartment,3,2271000,50/50
+PROP-00356,Haven,Aldar Properties,Palm Jumeirah,Villa,4,5722000,DLD Waiver Offer
+PROP-00163,Azizi Aliyah,Azizi Developments,Al Furjan,Apartment,1,1463000,1% Monthly
+PROP-00567,La Mer Residences,Meraas,Jumeirah Lake Towers (JLT),Apartment,2,2197000,50/50
+PROP-00029,Bluewaters Residences,Meraas,Business Bay,Townhouse,3,3080000,50/50
+PROP-00084,Palm Jebel Ali,Nakheel,Business Bay,Townhouse,2,2585000,80/20
+PROP-00161,Azizi Aliyah,Azizi Developments,Jumeirah Village Circle (JVC),Townhouse,3,2954000,80/20
+PROP-00272,Fay Alreeman,Aldar Properties,Palm Jumeirah,Villa,5,6772000,50/50
+PROP-00126,Town Square,Nshama,Dubai Marina,Townhouse,3,2864000,70/30
+PROP-00004,Bluewaters Residences,Meraas,Arabian Ranches,Villa,3,5462000,1% Monthly
+PROP-00214,Cavalli Couture,DAMAC Properties,Business Bay,Apartment,1,1279000,50/50
+PROP-00024,Yas Acres,Aldar Properties,Dubai Creek Harbour,Apartment,1,1677000,80/20
+PROP-00279,Sobha Seahaven,Sobha Realty,Dubai Hills Estate,Studio,0,803000,60/40
+PROP-00247,Binghatti Jacob & Co,Binghatti Developers,Palm Jumeirah,Apartment,2,1930000,DLD Waiver Offer
+PROP-00266,Mudon,Dubai Properties,Arabian Ranches,Villa,4,4842000,60/40
+PROP-00122,Azizi Riviera,Azizi Developments,Jumeirah Village Circle (JVC),Studio,0,806000,70/30
+PROP-00381,Danube Oceanz,Danube Properties,Dubai Hills Estate,Apartment,2,1660000,DLD Waiver Offer
+PROP-00460,Hayat Townhouses,Nshama,Jumeirah Village Circle (JVC),Townhouse,4,3510000,50/50
+PROP-00368,Azizi Riviera,Azizi Developments,Dubai Hills Estate,Apartment,2,1718000,60/40
+PROP-00466,Azizi Aliyah,Azizi Developments,Damac Hills 2,Apartment,3,1880000,80/20
+PROP-00491,Sobha Creek Vistas,Sobha Realty,Business Bay,Studio,0,867000,Post Handover 60/40
+PROP-00383,Creek Rise,Emaar Properties,Palm Jumeirah,Apartment,2,1382000,80/20
+PROP-00498,Fay Alreeman,Aldar Properties,Dubai Silicon Oasis,Apartment,1,1494000,70/30
+PROP-00512,Aykon City,DAMAC Properties,Dubai Marina,Villa,6,5943000,DLD Waiver Offer
+PROP-00073,Emaar Beachfront,Emaar Properties,Damac Hills 2,Apartment,2,1778000,1% Monthly
+PROP-00393,Wilton Terraces,Ellington Properties,Jumeirah Village Circle (JVC),Apartment,2,1706000,60/40
+PROP-00592,The Sanctuary,Ellington Properties,Downtown Dubai,Apartment,1,1268000,Post Handover 60/40
+PROP-00232,Serena,Dubai Properties,Downtown Dubai,Townhouse,4,3447000,60/40
+PROP-00341,Deira Islands,Nakheel,Palm Jumeirah,Apartment,1,1326000,Post Handover 60/40
+PROP-00331,Sobha Hartland,Sobha Realty,Jumeirah Lake Towers (JLT),Apartment,1,1568000,DLD Waiver Offer
+PROP-00366,Azizi Venice,Azizi Developments,Jumeirah Village Circle (JVC),Apartment,2,1682000,60/40
+PROP-00254,La Mer Residences,Meraas,Dubai Hills Estate,Studio,0,503000,60/40
+PROP-00508,Azizi Venice,Azizi Developments,Business Bay,Villa,5,5014000,DLD Waiver Offer
+PROP-00127,Sobha Hartland,Sobha Realty,Mohammed Bin Rashid City (MBR City),Apartment,1,1435000,70/30
+PROP-00045,Belgravia,Ellington Properties,Jumeirah Village Circle (JVC),Apartment,3,2299000,Post Handover 60/40
+PROP-00576,The Sanctuary,Ellington Properties,Dubai South,Apartment,4,2459000,60/40
+PROP-00059,DAMAC Hills 2,DAMAC Properties,Downtown Dubai,Townhouse,2,2489000,50/50
+PROP-00496,Sobha One,Sobha Realty,Dubai Marina,Apartment,4,2515000,80/20
+PROP-00311,Binghatti Jacob & Co,Binghatti Developers,Dubai South,Townhouse,4,3115000,Post Handover 60/40
+PROP-00061,Mudon,Dubai Properties,Jumeirah Village Circle (JVC),Townhouse,3,2409000,50/50
+PROP-00349,Danube Elitz,Danube Properties,Palm Jumeirah,Apartment,1,1549000,60/40
+PROP-00553,Emaar Beachfront,Emaar Properties,Mohammed Bin Rashid City (MBR City),Apartment,1,1319000,80/20
+PROP-00076,Haven,Aldar Properties,Damac Hills 2,Studio,0,723000,DLD Waiver Offer
+PROP-00501,Aykon City,DAMAC Properties,Dubai Marina,Apartment,3,2279000,80/20
+PROP-00325,Creek Rise,Emaar Properties,Damac Hills 2,Apartment,2,1841000,60/40
+PROP-00019,Cavalli Couture,DAMAC Properties,Dubai Marina,Penthouse,5,10353000,Post Handover 60/40
+PROP-00054,La Mer Residences,Meraas,Dubai Hills Estate,Apartment,2,1817000,60/40
+PROP-00275,Fay Alreeman,Aldar Properties,Jumeirah Village Circle (JVC),Apartment,2,1837000,80/20
+PROP-00593,Binghatti Canal,Binghatti Developers,Jumeirah Lake Towers (JLT),Apartment,2,1928000,Post Handover 60/40
+PROP-00580,Sobha One,Sobha Realty,Business Bay,Townhouse,3,3027000,70/30
+PROP-00260,1/JVC,Dubai Properties,Jumeirah Village Circle (JVC),Apartment,2,1919000,Post Handover 60/40
+PROP-00559,Nad Al Sheba Gardens,Nakheel,Al Furjan,Studio,0,458000,50/50
+PROP-00147,Wilton Terraces,Ellington Properties,Jumeirah Village Circle (JVC),Townhouse,2,2848000,60/40
+PROP-00042,Danube Elitz,Danube Properties,Downtown Dubai,Townhouse,4,2839000,60/40
+PROP-00021,Deira Islands,Nakheel,Jumeirah Village Circle (JVC),Villa,3,4734000,50/50
+PROP-00215,Binghatti Canal,Binghatti Developers,Dubai Marina,Apartment,2,2096000,1% Monthly
+PROP-00387,Binghatti Aquarise,Binghatti Developers,Mohammed Bin Rashid City (MBR City),Townhouse,2,2601000,50/50
+PROP-00091,Fay Alreeman,Aldar Properties,Mohammed Bin Rashid City (MBR City),Apartment,3,2127000,50/50
+PROP-00015,Deira Islands,Nakheel,Jumeirah Village Circle (JVC),Apartment,2,2108000,50/50
+PROP-00469,City Walk,Meraas,Jumeirah Lake Towers (JLT),Apartment,2,1526000,60/40
+PROP-00263,Palm Jebel Ali,Nakheel,Al Furjan,Apartment,2,2018000,50/50
+PROP-00344,Cavalli Couture,DAMAC Properties,Jumeirah Lake Towers (JLT),Apartment,2,2091000,Post Handover 60/40
+PROP-00222,Azizi Riviera,Azizi Developments,Business Bay,Villa,4,5371000,1% Monthly
+PROP-00600,Jumeirah Islands,Nakheel,Downtown Dubai,Studio,0,452000,50/50
+PROP-00410,Wilton Terraces,Ellington Properties,Dubai Marina,Studio,0,856000,1% Monthly
+PROP-00018,Sobha One,Sobha Realty,Downtown Dubai,Villa,3,4574000,70/30
+PROP-00457,Danube Oceanz,Danube Properties,Damac Hills 2,Studio,0,725000,1% Monthly
+PROP-00382,Sobha Seahaven,Sobha Realty,Dubai South,Townhouse,4,3098000,1% Monthly
+PROP-00493,Binghatti Canal,Binghatti Developers,Dubai Marina,Studio,0,807000,70/30
+PROP-00437,Wilton Terraces,Ellington Properties,Al Furjan,Apartment,2,1417000,60/40
+PROP-00340,Fay Alreeman,Aldar Properties,Jumeirah Village Circle (JVC),Villa,6,6985000,50/50
+PROP-00213,Serena,Dubai Properties,Arabian Ranches,Studio,0,496000,60/40
+PROP-00555,Mudon,Dubai Properties,Al Furjan,Villa,5,5525000,70/30
+PROP-00314,Binghatti Aquarise,Binghatti Developers,Dubai South,Apartment,1,1632000,70/30
+PROP-00378,Binghatti Aquarise,Binghatti Developers,Dubai Marina,Apartment,4,2261000,Post Handover 60/40
+PROP-00597,Town Square,Nshama,Dubai Marina,Apartment,1,1145000,Post Handover 60/40
+PROP-00386,Fay Alreeman,Aldar Properties,Dubai Marina,Apartment,1,1813000,1% Monthly
+PROP-00298,Binghatti Jacob & Co,Binghatti Developers,Palm Jumeirah,Townhouse,2,2694000,70/30
+PROP-00167,Deira Islands,Nakheel,Arabian Ranches,Townhouse,4,3303000,DLD Waiver Offer
+PROP-00384,Haven,Aldar Properties,Arabian Ranches,Apartment,3,2504000,60/40
+PROP-00226,Town Square,Nshama,Jumeirah Village Circle (JVC),Townhouse,3,2651000,70/30
+PROP-00483,Azizi Aliyah,Azizi Developments,Business Bay,Villa,5,5372000,70/30
+PROP-00006,Binghatti Canal,Binghatti Developers,Dubai Marina,Villa,4,5083000,70/30
+PROP-00566,Danube Diamondz,Danube Properties,Arabian Ranches,Apartment,2,2096000,50/50
+PROP-00536,Danube Elitz,Danube Properties,Damac Hills 2,Apartment,2,1814000,DLD Waiver Offer
+PROP-00038,Deira Islands,Nakheel,Dubai Marina,Villa,4,5962000,50/50
+PROP-00175,Palm Jebel Ali,Nakheel,Dubai Marina,Townhouse,2,2140000,Post Handover 60/40
+PROP-00503,Azizi Venice,Azizi Developments,Business Bay,Townhouse,4,3215000,60/40
+PROP-00093,Wilton Terraces,Ellington Properties,Al Furjan,Apartment,1,1245000,60/40
+PROP-00040,Palm Jebel Ali,Nakheel,Al Furjan,Apartment,3,1871000,1% Monthly
+PROP-00164,La Mer Residences,Meraas,Dubai Marina,Apartment,1,1684000,DLD Waiver Offer
+PROP-00106,Jumeirah Islands,Nakheel,Dubai Hills Estate,Apartment,1,1170000,70/30
+PROP-00391,Azizi Riviera,Azizi Developments,Dubai Marina,Apartment,1,1687000,80/20
+PROP-00431,Villanova,Dubai Properties,Downtown Dubai,Townhouse,3,2616000,50/50
+PROP-00252,The Sanctuary,Ellington Properties,Jumeirah Lake Towers (JLT),Apartment,1,1403000,DLD Waiver Offer
+PROP-00310,Danube Diamondz,Danube Properties,Palm Jumeirah,Studio,0,646000,80/20
+PROP-00117,Villanova,Dubai Properties,Dubai South,Studio,0,831000,60/40
+PROP-00237,Safa Two,DAMAC Properties,Jumeirah Village Circle (JVC),Apartment,1,1540000,70/30
+PROP-00577,The Sanctuary,Ellington Properties,Palm Jumeirah,Apartment,4,2044000,80/20
