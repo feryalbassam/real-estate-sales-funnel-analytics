@@ -47,7 +47,7 @@ Per-channel funnel, customer segment breakdown, and monthly trend — filtered t
 ### Agent Details (drill-through)
 Built on `Agent_ID` specifically (not `Agent_Name`) to correctly separate two different agents who happen to share the same name — a real data integrity issue found during this build.
 
-![Agent Details](screenshots/agent_details.png)
+![Agent Details](real-estate-sales-funnel-analytics/screenshots/agent_details.png)
 
 ### Property Type Details (drill-through)
 Location, payment plan, and bedroom distribution by property type — with location performance deliberately controlled for property-type mix to avoid a confounding "luxury unit concentration" bias.
