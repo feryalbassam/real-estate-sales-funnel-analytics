@@ -64,21 +64,25 @@ A core theme of this project: every number was checked against an independent so
 
 ## Repository Structure
 ```
-├── README.md
-├── sql/
-│   ├── 01_bronze_layer_setup.sql
-│   ├── 02_silver_layer_transform.sql
-│   ├── 03_analysis_queries.sql
 ├── data/
 │   ├── Leads.csv, Customers.csv, Properties.csv, Agents.csv, Sales.csv
-├── powerbi/
-│   ├── real_estate_dashboard.pbix
 ├── docs/
 │   ├── data_dictionary.md
 │   ├── kpi_definitions.md
 │   ├── business_insights_report.md
+├── powerbi/
+│   ├── real_estate_dashboard.pbix
 ├── screenshots/
 │   ├── executive_overview.png, channel_details.png, agent_details.png, property_type_details.png
+├── sql/
+|   ├── analysis_queries.sql
+│   ├── ddl_bronze.sql
+│   ├── ddl_silver.sql
+│   ├── init_database.sql
+|   ├── proc_load_bronze.sql
+|   ├── proc_load_silver.sql
+├── LICENSE
+├── README.md
 ```
 
 ## KPI Definitions (Summary)
